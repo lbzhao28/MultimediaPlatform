@@ -69,7 +69,7 @@ class index:
             root.appendChild(item)
 
             item = dom.createElement('Content')
-            text = dom.createCDATASection('new arrival')
+            text = dom.createCDATASection('娟娟你好！')
             item.appendChild(text)
             root.appendChild(item)
 
